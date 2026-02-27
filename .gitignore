@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.appx
+*.msix
+tests/extracted_app/
+~/.local/share/uwp_runner/
